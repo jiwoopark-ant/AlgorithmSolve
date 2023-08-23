@@ -4,4 +4,5 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 다시 풀 문재 정리
 
 
-18188. n개 간격의 원소들 
+18188. n개 간격의 원소들
+181949. 대소문자 바꿔 출력하기
